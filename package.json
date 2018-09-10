@@ -1,5 +1,5 @@
 {
-  "name": "angular-swagger2-client",
+  "name": "@kiwigrid/angular-swagger2-client",
   "keywords":[
     "angular",
     "swagger",
@@ -12,17 +12,20 @@
   ],
   "repository":{
     "type":"git",
-    "url":"https://github.com/olaferlandsen/angular-swagger2-client"
+    "url":"https://github.com/kiwigrid/angular-swagger2-client"
   },
   "bugs":{
-    "url":"https://github.com/olaferlandsen/angular-swagger2-client/issues"
+    "url":"https://github.com/kiwigrid/angular-swagger2-client/issues"
   },
   "version": "0.0.9-beta",
   "description": "A simple and powerful OpenAPI/Swagger Client for Angular, based on promises to connect with endpoint using OpenAPI/Swagger Specification 2.0.",
   "main": "./dist/angular-swagger2-client.min.js",
   "dependencies": {},
   "devDependencies": {},
-  "author": "Olaf Erlandsen <olaf@heliotres.cl>",
+  "authors": [
+    "Christian Lutz <christian.lutz@kiwigrid.com>",
+    "Olaf Erlandsen <olaf@heliotres.cl>"
+  ],
   "contributors":[
     {
       "name":"Olaf Erlandsen",
@@ -30,5 +33,5 @@
     }
   ],
   "license": "Apache License V2.0 - 2014",
-  "homepage":"https://github.com/olaferlandsen/angular-swagger2-client"
+  "homepage":"https://github.com/kiwigrid/angular-swagger2-client"
 }
